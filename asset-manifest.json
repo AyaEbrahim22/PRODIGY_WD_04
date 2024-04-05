@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12f4c224.css",
+    "main.js": "/static/js/main.18214375.js",
+    "static/js/453.e78f5281.chunk.js": "/static/js/453.e78f5281.chunk.js",
+    "static/media/eduBg.jpg": "/static/media/eduBg.b2a753be247e3088d944.jpg",
+    "static/media/YummyProject.png": "/static/media/YummyProject.3bd0508416131a9d5786.png",
+    "static/media/BakeryProject.png": "/static/media/BakeryProject.7b1079c59230da7ba118.png",
+    "static/media/HeadPhoto.png": "/static/media/HeadPhoto.17f071de58acfc342771.png",
+    "static/media/SmartLoginProject.png": "/static/media/SmartLoginProject.479e291363931e2bdb86.png",
+    "static/media/FreshCartProject.png": "/static/media/FreshCartProject.3e1b03f0a637d72cd486.png",
+    "static/media/PartyProject.png": "/static/media/PartyProject.cb5f84ebcd24f2dfd6f8.png",
+    "static/media/XO.png": "/static/media/XO.394c456cfe3590db2077.png",
+    "static/media/DanielsProject.png": "/static/media/DanielsProject.09406b44af1514eab7fe.png",
+    "static/media/MealifyProject.png": "/static/media/MealifyProject.0d0362195db4334319fe.png",
+    "static/media/SocialApp.png": "/static/media/SocialApp.46b2d05993813aefe41d.png",
+    "static/media/DevfolioProject.png": "/static/media/DevfolioProject.d7eb6b7da2c8a4fe3ea3.png",
+    "static/media/AboutPhoto.png": "/static/media/AboutPhoto.77c57e450030d878e53c.png",
+    "static/media/ContactBg.jpg": "/static/media/ContactBg.06a2f7d287c4814e934e.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/FokirProject.png": "/static/media/FokirProject.b610e43a3bc553bb3501.png",
+    "static/media/WeatherProject.png": "/static/media/WeatherProject.2065d99421758bc7e017.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/NoteApp.png": "/static/media/NoteApp.a636fc266dcdfa13641f.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/index.html",
+    "main.12f4c224.css.map": "/static/css/main.12f4c224.css.map",
+    "main.18214375.js.map": "/static/js/main.18214375.js.map",
+    "453.e78f5281.chunk.js.map": "/static/js/453.e78f5281.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f4c224.css",
+    "static/js/main.18214375.js"
+  ]
+}
