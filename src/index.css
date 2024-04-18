@@ -1,0 +1,50 @@
+
+::selection{
+  color: #fff;
+  background-color:  #F67590;
+}
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #F67590; 
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #f46786; 
+}
+.nav-pills a{
+  color: rgb(234, 234, 234);
+}
+.nav-pills{
+  --bs-nav-pills-link-active-color: #fff;
+  --bs-nav-pills-link-active-bg: #fd3560;
+} 
+
+body {
+  margin: 0;
+}
+a{
+  text-decoration: none;
+}
+
+.ProjectNav-link{
+  color: #fff;
+  background-color: #F67590;
+  margin-block: 5px;
+}
+.ProjectNav-link:focus, .ProjectNav-link:hover {
+  color: white;
+  background: #ed5677;
+  background: linear-gradient(270deg, #ed5677ba 0%,  #fcbdcb 60%);
+  color: rgb(255, 255, 255);
+}
+.navBackGround{
+  background: #e25c79;
+}

@@ -1,0 +1,11 @@
+.footerComponent{
+    width: 100%;
+    background: linear-gradient(270deg,#f9abbc  0%, #ed5677d0  60%); 
+    padding: 25px;
+    text-align: center;
+}
+.footerComponent p{
+    color: rgb(238, 238, 238);
+    font: 20px;
+    margin: 0;
+}

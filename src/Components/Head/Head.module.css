@@ -1,0 +1,66 @@
+.headComponent {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #F67590;
+  padding-block: 25px;
+}
+
+.frontTitle {
+    color: #fcdee4;
+    border: 0;
+    background-color: #F67590;
+}
+
+.hello {
+  font-size: 50px;
+  color: #ff436a;
+}
+
+.Photo {
+  margin-top: 130px;
+  width: 70%;
+  height: 500px;
+  box-shadow: 0 0 30px 5px #d6d6d6;
+  border: 10px solid #F67590;
+  border-radius: 66% 34% 78% 30% / 72% 43% 64% 30%;
+}
+
+.btn {
+  padding: 10px 25px;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color:rgb(234, 234, 234);
+  color: #F67590 ;
+  font-weight: 700;
+  transition: 0.6s;
+  box-shadow: 0px 0px 60px #bcbcbc;
+  -webkit-box-reflect: below 10px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+}
+
+.btn:active {
+  scale: 0.92;
+}
+
+.btn:hover {
+  background: #ed5677;
+  background: linear-gradient(270deg, #ed5677ba 0%,  #fcbdcb 60%);
+  color: rgb(255, 255, 255);
+  transform:translateY(10px) ;
+}
+.btn a{
+  color: #F67590 ;
+}
+
+
+@media screen and (min-width: 300px) and (max-width: 500px){
+  .Photo {
+    width: 100%;
+  }
+  
+}
+
+
+
+
